@@ -2,9 +2,6 @@
 by Tim Tsu
 
 ## Getting started ##
-### Prerequisites ###
-* JRE 1.6
-* Maven 2 or Gradle
 
 ### Build and Run ###
 #### Maven ####
@@ -15,6 +12,11 @@ by Tim Tsu
     ./build/install/tictactoe-java/bin/tictactoe-java
 
 -----------------------------------------
+## Note: Maybe need to install this!!
+* junit:4.13.2!!
+* mockito-core:5.4.0
+* fest-assert:1.4
+
 ## Detail of board
 ### ตำแหน่งในกระดานของ tictactoe <br>
     00,01,02
