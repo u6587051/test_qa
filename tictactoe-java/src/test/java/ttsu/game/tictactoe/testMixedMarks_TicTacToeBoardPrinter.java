@@ -22,7 +22,7 @@ import org.junit.runner.RunWith;
 
 // ใช้ @RunWith เพื่อเรียกใช้งาน MockitoJUnitRunner
 @RunWith(MockitoJUnitRunner.class)
-public class TicTacToeBoardPrinterMixedMarksTest {
+public class testMixedMarks_TicTacToeBoardPrinter {
 
     // ชื่อ TicTacToeBoardPrinterMixedMarksTest
     // จุดประสงค์เพื่อตรวจสอบการพิมพ์กระดาน TicTacToe ที่มีเครื่องหมายผสม
