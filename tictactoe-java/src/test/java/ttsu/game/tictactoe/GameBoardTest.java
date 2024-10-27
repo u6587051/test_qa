@@ -11,7 +11,7 @@ import ttsu.game.Position;
 import ttsu.game.tictactoe.TicTacToeGameState.Player;
 
 
-public class testGameBoard_GameBoard {
+public class GameBoardTest {
 
   private GameBoard board;
 
