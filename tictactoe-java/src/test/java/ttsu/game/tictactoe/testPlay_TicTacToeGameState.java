@@ -13,7 +13,7 @@ import ttsu.game.tictactoe.TicTacToeGameState.Player;
 
 public class testPlay_TicTacToeGameState {
 
-    // ชื่อ PlayTest
+    // ชื่อ testPlay_TicTacToeGameState
     // จุดประสงค์เพื่อตรวจสอบการเล่นในตำแหน่งต่างๆว่าสามารถเล่นได้หรือไม่ ทั้งในด้านความถูกต้องของตำแหน่งและสถานะของตำแหน่งนั้นๆ
 
     // Identify testable functions => play()

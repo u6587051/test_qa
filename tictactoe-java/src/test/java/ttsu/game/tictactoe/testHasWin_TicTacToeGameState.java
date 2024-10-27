@@ -11,7 +11,7 @@ import ttsu.game.tictactoe.TicTacToeGameState.Player;
 
 public class testHasWin_TicTacToeGameState {
 
-    // ชื่อ HasWinTest
+    // ชื่อ testHasWin_TicTacToeGameState
     // จุดประสงค์เพื่อตรวจสอบการชนะของผู้เล่น (X หรือ O) ในรูปแบบต่างๆ ว่าสามารถชนะได้ในแบบแนวนอน แนวตั้ง และแนวทแยงหรือไม่
 
     // Identify testable functions => hasWin()

@@ -15,7 +15,7 @@ import ttsu.game.tictactoe.TicTacToeGameState.Player;
 
 public class testGetMark_GameBoard {
 
-    // ชื่อ GetMarkTest
+    // ชื่อ testGetMark_GameBoard
     // จุดประสงค์เพื่อตรวจสอบการรับค่าที่ mark บนกระดานเช่น X,O จากตำแหน่งที่ได้รับ
 
     // Identify testable functions => getMark()

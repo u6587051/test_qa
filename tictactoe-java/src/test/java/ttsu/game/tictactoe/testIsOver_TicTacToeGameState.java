@@ -16,7 +16,7 @@ import ttsu.game.tictactoe.TicTacToeGameState.Player;
 
 public class testIsOver_TicTacToeGameState {
 
-    // ชื่อ class IsOverTest
+    // ชื่อ testIsOver_TicTacToeGameState
     // จุดประสงค์คือการ test method isOver() เพื่อตัดสินว่าเกม TicTacToe จะสามารถจบเกมได้แบบใดบ้าง
     // Identify testable functions => isOver()
     // Identify parameters, return types, return values, and exceptional behavior

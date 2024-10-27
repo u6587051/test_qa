@@ -17,7 +17,7 @@ import java.lang.reflect.Method;
  */
 public class testMarkToString_TicTacToeBoardPrinter {
 
-    // ชื่อ TicTacToeBoardPrinterMarkToStringTest
+    // ชื่อ testMarkToString_TicTacToeBoardPrinter
     // จุดประสงค์เพื่อตรวจสอบการแปลงค่าที่ Player เป็น String ในฟังก์ชัน markToString
 
     // Identify testable functions => markToString()

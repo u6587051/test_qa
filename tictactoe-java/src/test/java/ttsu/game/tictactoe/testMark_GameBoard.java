@@ -19,7 +19,7 @@ import ttsu.game.tictactoe.TicTacToeGameState.Player;
 
 public class testMark_GameBoard {
 
-    // ชื่อ MarkTest
+    // ชื่อ testMark_GameBoard
     // จุดประสงค์เพื่อตรวจสอบการ mark บนกระดานเช่น X,O จากตำแหน่งที่ได้รับว่าลงได้ไหม ถูกต้องหรือไม่ทั้งในด้านของตำแหน่งและผู้เล่น
 
     // Identify testable functions => mark()

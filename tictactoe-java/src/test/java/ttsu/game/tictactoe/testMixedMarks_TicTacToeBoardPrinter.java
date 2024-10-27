@@ -24,7 +24,7 @@ import org.junit.runner.RunWith;
 @RunWith(MockitoJUnitRunner.class)
 public class testMixedMarks_TicTacToeBoardPrinter {
 
-    // ชื่อ TicTacToeBoardPrinterMixedMarksTest
+    // ชื่อ testMixedMarks_TicTacToeBoardPrinter
     // จุดประสงค์เพื่อตรวจสอบการพิมพ์กระดาน TicTacToe ที่มีเครื่องหมายผสม
 
     // Identify testable functions => printGameBoard()

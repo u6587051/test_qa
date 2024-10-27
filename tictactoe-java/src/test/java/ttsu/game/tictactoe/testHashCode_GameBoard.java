@@ -19,7 +19,7 @@ import ttsu.game.tictactoe.TicTacToeGameState.Player;
 
 public class testHashCode_GameBoard {
 
-    // ชื่อ class HashCodeTest
+    // ชื่อ class testHashCode_GameBoard
     // จุดประสงค์ เพื่อทดสอบเปรียบเทียบ hashCode ว่าในแต่ละ Scenarios hashCode ของ Board เหมือนกันหรือแตกต่างกันหรือไม่
     // Identify testable functions => hashCode()
     // Identify parameters, return types, return values, and exceptional behavior
