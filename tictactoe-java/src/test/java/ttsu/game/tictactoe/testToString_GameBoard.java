@@ -2,7 +2,6 @@
  * You may use, distribute and modify this code under the terms of the MIT license.
  */
 
-
 package ttsu.game.tictactoe;
 
 import static org.junit.Assert.assertEquals;
