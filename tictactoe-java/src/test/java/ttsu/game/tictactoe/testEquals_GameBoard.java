@@ -9,7 +9,7 @@ import ttsu.game.tictactoe.TicTacToeGameState.Player;
 
 import static org.junit.Assert.*;
 
-public class testEqualsGameBoard {
+public class testEquals_GameBoard {
 
   @Test
   public void testEquals_reflexive() {

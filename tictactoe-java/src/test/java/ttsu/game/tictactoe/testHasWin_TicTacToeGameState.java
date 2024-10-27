@@ -9,7 +9,7 @@ import org.junit.Before;
 import org.junit.Test;
 import ttsu.game.tictactoe.TicTacToeGameState.Player;
 
-public class HasWinTest {
+public class testHasWin_TicTacToeGameState {
 
     // ชื่อ HasWinTest
     // จุดประสงค์เพื่อตรวจสอบการชนะของผู้เล่น (X หรือ O) ในรูปแบบต่างๆ ว่าสามารถชนะได้ในแบบแนวนอน แนวตั้ง และแนวทแยงหรือไม่

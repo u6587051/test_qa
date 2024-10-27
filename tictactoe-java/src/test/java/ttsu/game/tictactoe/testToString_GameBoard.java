@@ -10,7 +10,7 @@ import org.junit.Test;
 
 import ttsu.game.tictactoe.TicTacToeGameState.Player;
 
-public class testToStringGameBoard {
+public class testToString_GameBoard {
 
   @Test
   public void testToString_emptyBoard() {

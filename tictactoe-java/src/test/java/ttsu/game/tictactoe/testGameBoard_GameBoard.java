@@ -8,11 +8,10 @@ import org.junit.Test;
 import org.junit.rules.ExpectedException;
 
 import ttsu.game.Position;
-import ttsu.game.tictactoe.GameBoard;
 import ttsu.game.tictactoe.TicTacToeGameState.Player;
 
 
-public class GameBoardTest {
+public class testGameBoard_GameBoard {
 
   private GameBoard board;
 

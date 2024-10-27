@@ -2,10 +2,8 @@
  * You may use, distribute and modify this code under the terms of the MIT license.
  */
 
-
 package ttsu.game.tictactoe;
 
-import static org.fest.assertions.Assertions.assertThat;
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Before;
@@ -15,7 +13,7 @@ import org.junit.rules.ExpectedException;
 
 import ttsu.game.tictactoe.TicTacToeGameState.Player;
 
-public class GetMarkTest {
+public class testGetMark_GameBoard {
 
     // ชื่อ GetMarkTest
     // จุดประสงค์เพื่อตรวจสอบการรับค่าที่ mark บนกระดานเช่น X,O จากตำแหน่งที่ได้รับ
